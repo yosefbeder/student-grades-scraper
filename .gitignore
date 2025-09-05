@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore OS files
+.DS_Store
+
+# Ignore credentials or sensitive data
+*.xlsx
+*.csv
+*.env
+secrets/
